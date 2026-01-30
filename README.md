@@ -11,6 +11,6 @@ https://html-assignment-silk-phi.vercel.app/
 
 ## Screenshots
 
-<img width="1366" height="768" alt="Screenshot (1202)" src="https://github.com/user-attachments/assets/21697b0e-9eed-42a5-93c7-ccf58ed2a935" />
+<img width="1366" height="768" alt="Screenshot (1207)" src="https://github.com/user-attachments/assets/839b246d-3a1c-4427-91dd-7964ed695844" />
 <hr>
-<img width="1366" height="768" alt="Screenshot (1203)" src="https://github.com/user-attachments/assets/29d0ab1e-869d-4dbe-b684-ea006fb944c8" />
+<img width="1366" height="768" alt="Screenshot (1208)" src="https://github.com/user-attachments/assets/c81cfa66-dfcd-4b85-8021-71260c07feb4" />
